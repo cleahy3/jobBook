@@ -1,0 +1,17 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/cleahy3/jobBook",
+  "authors": [
+    "Callum Leahy <callumleahy23@googlemail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
